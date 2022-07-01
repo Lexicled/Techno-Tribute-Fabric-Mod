@@ -1,9 +1,4 @@
-# Fabric Example Mod
-
-## Setup
-
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
-
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## Work in progress Technoblade Tribute Mod for Fabric 1.19
+# <b><a href="https://www.youtube.com/technoblade?sub_confirmation=1">SUB TO TECHNO</a><b>
+# <b><a href="https://technoblade.com/">BUY TECHNO MERCH</a><b>
+# <b><a href="https://www.curesarcoma.org/technoblade/">DONATE TO HELP STOP CANCER</a><b>
